@@ -85,13 +85,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Kollier-1/Kollier-1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kollier-1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/1547651570861351053/1558701055221436486/togif.gif?ex=6ae02b7a&is=6aded9fa&hm=057d9061863e493d455710ae9d0f3685cbd049f6dd33d84f68d2620e6d88e69d"  />
 </div>
